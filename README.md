@@ -50,7 +50,7 @@ The proposed system aims to improve medication adherence and provide early disea
 
 1. **Run the Flask Application**:
     ```bash
-    python app.py
+    python ui4.py
     ```
 
 2. Open a web browser and navigate to `http://localhost:5000` to access the web application.
