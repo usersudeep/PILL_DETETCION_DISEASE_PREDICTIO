@@ -76,7 +76,6 @@ The system consists of two main components:
 
 Refer to the architecture diagram below:
 
-![System Architecture](architecture_diagram.png)
 
 ## Methodology
 
@@ -93,9 +92,6 @@ Refer to the architecture diagram below:
 - **Pill Detection Accuracy**: 81%
 - **Disease Prediction Accuracy**: 91%
 
-Comparison of model performances is shown below:
-
-![CNN vs RNN](table1.png)
 
 ## Future Work
 
